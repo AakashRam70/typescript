@@ -1,1 +1,1 @@
-{"root":["./src/function.ts","./src/sum.ts"],"version":"5.6.3"}
+{"root":["./src/function.ts","./src/interface.ts","./src/sum.ts"],"version":"5.6.3"}
