@@ -1,1 +1,1 @@
-{"root":["./src/array.ts","./src/enum.ts","./src/function.ts","./src/interface.ts","./src/sum.ts","./src/type.ts"],"version":"5.6.3"}
+{"root":["./src/array.ts","./src/enum.ts","./src/function.ts","./src/generics.ts","./src/interface.ts","./src/sum.ts","./src/type.ts"],"version":"5.6.3"}
